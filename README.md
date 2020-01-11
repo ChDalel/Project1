@@ -3,10 +3,10 @@
 
 Its parameters are:
 
-access_key : is a unique identifier that is passed in to an API to identify the calling application or user
-from : is the code of the currency to convert from.
-to : is the code of the currency to convert to.
-amount : is the amount to be converted.
+1.access_key : is a unique identifier that is passed in to an API to identify the calling application or user
+2.from : is the code of the currency to convert from.
+3.to : is the code of the currency to convert to.
+4.amount : is the amount to be converted.
 
 #The fetchhistoricaldata's function is used to query the API for historical crypto data
 
